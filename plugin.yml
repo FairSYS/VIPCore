@@ -1,0 +1,5 @@
+name: VIPCore
+main: VIPCore\Main
+version: "1.0"
+api: 2.0.0
+author: FairSYS
